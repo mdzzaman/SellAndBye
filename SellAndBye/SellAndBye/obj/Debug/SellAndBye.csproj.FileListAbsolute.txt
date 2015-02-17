@@ -1,0 +1,303 @@
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\SellAndBye.dll.config
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\SellAndBye.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\SellAndBye.pdb
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\EntityFramework.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\MongoDB.Bson.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\MongoDB.Driver.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Newtonsoft.Json.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Owin.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\EntityFramework.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\MongoDB.Bson.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\MongoDB.Driver.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Newtonsoft.Json.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.xml
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\obj\Debug\SellAndBye.csprojResolveAssemblyReference.cache
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\obj\Debug\SellAndBye.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\obj\Debug\SellAndBye.pdb
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\System.Web.Cors.dll
+F:\test project\SocialMediaLogin\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll.config
+F:\test project\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\SellAndBye.pdb
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\EntityFramework.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Web.Infrastructure.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Owin.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Cors.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Mvc.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\WebGrease.dll
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.pdb
+F:\test project\SAB\SellAndBye\SellAndBye\bin\EntityFramework.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Mvc.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.xml
+F:\test project\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.xml
+F:\test project\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.dll
+F:\test project\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.pdb
+F:\test project\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.csprojResolveAssemblyReference.cache
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll.config
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\SellAndBye.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\EntityFramework.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Web.Infrastructure.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Cors.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\WebGrease.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\EntityFramework.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.csprojResolveAssemblyReference.cache
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll.config
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\SellAndBye.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\EntityFramework.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Web.Infrastructure.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Cors.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\WebGrease.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\EntityFramework.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.xml
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.pdb
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.pdb
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll.config
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\SellAndBye.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\SellAndBye.pdb
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\EntityFramework.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Web.Infrastructure.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Owin.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Cors.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Mvc.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\WebGrease.dll
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Antlr3.Runtime.pdb
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\EntityFramework.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\EntityFramework.SqlServer.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Core.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Cors.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Cookies.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Facebook.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.Google.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Microsoft.Owin.Security.OAuth.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\MongoDB.Bson.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\MongoDB.Driver.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Helpers.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.Owin.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Mvc.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Optimization.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Razor.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Deployment.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.WebPages.Razor.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\Newtonsoft.Json.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Net.Http.Formatting.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\bin\System.Web.Http.WebHost.xml
+F:\test project\SAB\SAB\SellAndBye\SellAndBye\obj\Debug\SellAndBye.csprojResolveAssemblyReference.cache

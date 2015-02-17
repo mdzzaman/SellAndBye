@@ -1,0 +1,74 @@
+﻿<br />
+<br />
+<br />
+    <div class="container" data-ng-controller="profileController">
+    <div class="row">
+        <div class="col-xs-3">
+            <a href="#" class="thumbnail">
+                <img ng-src="{{usrnInfo.imagePath}}" alt="...">
+            </a>
+            <!--<input type="file" ng-file-select="onFileSelect($files)" multiple>-->
+            <div class="profileImageChangeContainer">
+                <input class="profileUploadFile" type="file" ng-file-select="onFileSelect($files)" data-call-function="ImagePreview">
+            </div>
+        </div>
+
+        <div class="col-xs-8">
+            <div class="row animate-hide" data-ng-show="isEdti" data-ng-init="isEdti=true">
+                <div class="col-xs-3 text-right">Name : </div>
+                <div class="col-xs-9">
+                    <span>{{usrnInfo.name}}</span>
+                </div>
+                <div class="col-xs-3 text-right">Mobile : </div>
+                <div class="col-xs-9">
+                    <span>{{usrnInfo.mobile}}</span>
+                </div>
+            </div>
+            <div class="row highlight" data-ng-show="isEdti">
+                <div class="col-xs-12"><button class="k-button" data-ng-click="forEdit()"><i class="fa fa-edit"></i> Edit</button></div>
+            </div>
+
+            <div class="row animate-hide infoEdit" data-ng-hide="isEdti">
+                <div class="col-xs-3 text-right">Name : </div>
+                <div class="col-xs-9">
+                    <input type="text" data-ng-model="usrnInfo.name" name="Full Name" placeholder="Full name" required validationmessage="Enter {0}" />
+                </div>
+                <div class="col-xs-3 text-right">Mobile : </div>
+                <div class="col-xs-9">
+                    <input type="text" data-ng-model="usrnInfo.mobile" name="Mobile Number" placeholder="Mobile Number" required validationmessage="Enter {0}" />
+                </div>
+            </div>
+            <div class="row highlight" data-ng-hide="isEdti">
+                <div class="col-xs-12">
+                    <button data-ng-click="Updata()" class="k-button">Update</button>
+                    <button data-ng-click="cancelEdit()" class="k-button">Cancel</button>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="row highlight" data-ng-show="isEdtiPassword" data-ng-init="isEdtiPassword=true">
+                <div class="col-xs-12"><button class="k-button" data-ng-click="forEditPassword()"><i class="fa fa-edit"></i> Password Change </button></div>
+            </div>
+            <div class="row animate-hide passwordEdit" data-ng-hide="isEdtiPassword">
+                <p class="bg-danger oldPasswordError" data-ng-show="passwordError" data-ng-init="passwordError=false">Old Password not Match</p>
+                <div class="col-xs-3 text-right">Old Password : </div>
+                <div class="col-xs-9">
+                    <input type="password" data-ng-model="passwordModel.oldPassword" name="Old Password" placeholder="Old Password" required validationmessage="Enter {0}" />
+                </div>
+                <div class="col-xs-3 text-right">New Password : </div>
+                <div class="col-xs-9">
+                    <input type="password" data-ng-model="passwordModel.newPassword" name="New Password" placeholder="New Password" required validationmessage="Enter atlist 6 letter in {0}" />
+                </div>
+            </div>
+            <div class="row highlight" data-ng-hide="isEdtiPassword">
+                <div class="col-xs-12">
+                    <button data-ng-click="passwordUpdata()" class="k-button">Update</button>
+                    <button data-ng-click="cancelEditPassword()" class="k-button">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+

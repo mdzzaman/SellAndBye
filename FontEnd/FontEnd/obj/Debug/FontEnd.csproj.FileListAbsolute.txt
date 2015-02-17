@@ -1,0 +1,29 @@
+F:\test project\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll.config
+F:\test project\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll
+F:\test project\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.pdb
+F:\test project\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.dll
+F:\test project\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll.config
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.csprojResolveAssemblyReference.cache
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\v2 api login and socila login google\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll.config
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.pdb
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.csprojResolveAssemblyReference.cache
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.dll
+E:\E\IQrasys\my_project\mvc 5\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.pdb
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll.config
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.dll
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\bin\FontEnd.pdb
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.csprojResolveAssemblyReference.cache
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.dll
+F:\test project\SAB\SAB\SABF\FontEnd\FontEnd\obj\Debug\FontEnd.pdb
+I:\FontEnd\FontEnd\bin\FontEnd.dll.config
+I:\FontEnd\FontEnd\bin\FontEnd.dll
+I:\FontEnd\FontEnd\bin\FontEnd.pdb
+I:\FontEnd\FontEnd\obj\Debug\FontEnd.csprojResolveAssemblyReference.cache
+I:\FontEnd\FontEnd\obj\Debug\FontEnd.dll
+I:\FontEnd\FontEnd\obj\Debug\FontEnd.pdb
