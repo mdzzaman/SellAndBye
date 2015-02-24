@@ -1,2 +1,5 @@
 # SellAndBye
-Thsi application is created by Asp.Net Api, Fontend AngularJS and MongoDB
+Thsi application is created by 
+Backend Asp.Net Api,
+DataBase MongoDB ( onSql ) and
+Fontend AngularJS
