@@ -1,7 +1,7 @@
 # SellAndBye
-### Thsi application is created by 
+### This application is created by 
 1. Backend Asp.Net Api,
-2. DataBase MongoDB ( onSql ) and
+2. DataBase MongoDB ( NoSql ) and
 3. Fontend AngularJS
 
 
